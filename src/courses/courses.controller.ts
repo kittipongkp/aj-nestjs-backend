@@ -1,5 +1,5 @@
 import { Controller, Get } from '@nestjs/common';
-import { Course } from './interfaces/courses.interface';
+import { Course } from '../interfaces/courses.interface';
 import { CourseService } from './courses.service'
 
 
